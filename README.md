@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/solos/musca.png?branch=master)](https://travis-ci.org/solos/musca)
-[![Downloads](https://pypip.in/d/musca/badge.png)](https://pypi.python.org/pypi/musca)
+[![Downloads](https://img.shields.io/pypi/dm/musca.svg)](https://pypi.python.org/pypi/musca)
 [![Version](https://img.shields.io/pypi/v/musca.svg)](https://img.shields.io/pypi/v/musca.svg)
 # musca
 
